@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-ws-generated">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

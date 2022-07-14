@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="java-ws-generated">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/cmb_nip_prod/app" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/cmb_nip_prod/target/scala-2.11/routes/main" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/cmb_nip_prod/test" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/java-ws/src" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-admin/.mvn/wrapper" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-admin/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-admin/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-client/.mvn/wrapper" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-client/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/lib/java-ws-generated.jar!/providos-iaos-client/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

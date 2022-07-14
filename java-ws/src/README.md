@@ -153,3 +153,16 @@ must include a fault code, fault string, and a detailed error message.
 </S:Envelope>
 ```
 
+http://localhost:9999/java-ws/hello?xsd=1
+
+
+1. Open a command prompt or a Unix terminal.
+2. Go to the java-ws-client project directory.
+3. Create a ‘generated’ directory.
+4. Create a ‘lib’ directory.
+5. Go to the ‘generated’ directory.
+6. Run the following command:
+wsimport -d . http://localhost:9999/java-ws/hello?wsdl
+7. Package the generated client code:
+jar cvf ../java-ws-generated.jar *
+8. Move the java-ws-generated.jar file to the ‘lib’ directory
